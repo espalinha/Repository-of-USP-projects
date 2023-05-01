@@ -1,2 +1,3 @@
-# Repository-of-USP-projects
-Here are the code of my projects in my University
+# Repository-of-SPOJ-codes
+Here are the code of SPOJ's problems
+
